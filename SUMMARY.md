@@ -3,8 +3,8 @@
 * [Introducción](README.md)
 
 ____
-### 1
-* [M1 Mi primer programa](index0.md)
+### 1. Mi primer programa
+* [Mi primer programa](index0.md)
 * [Un poco de orden... el pensamiento computacional](un_poco_de_orden_el_pensamiento_computacional.md)
 * [Herramientas para crear APPs](herramientas_para_crear_apps.md)
 * [Programo Ergo Sum](programo_ergo_sum.md)
@@ -13,17 +13,15 @@ ____
 * [Probamos la APP: Tu APP en tu tablet o móvil](probamos_la_app_tu_app_en_tu_tablet_o_mvil.md)
 * [Exportamos nuestra APP](exportamos_nuestra_app.md)
 ____
-### 2
-* [M2 Cronometro](index1.md)
-* [Programo Ergo Sum](programo_ergo_sum.md)
+### 2. Cronómetro
+* [Cronometra](index1.md)
 * [Qué vamos a hacer](qu_vamos_a_hacer.md)
 * [Parte diseño](parte_diseo.md)
 * [Sensor](sensor.md)
 * [Programación](programacin.md)
 ____
-### 3
-* [M3 Un pequeño juego de adivinar](index2.md)
-* [Programo Ergo Sum](programo_ergo_sum.md)
+### 3. Un pequeño Juego de Adivinar
+* [Adivina](index2.md)
 * [Juego de condiciones](juego_de_condiciones.md)
 * [De que va el juego](de_que_va_el_juego.md)
 * [La parte de diseño](la_parte_de_diseo.md)
