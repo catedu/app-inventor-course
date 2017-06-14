@@ -1,0 +1,5 @@
+
+# VOLUNTARIO: Colabora en saber más
+
+**VOLUNTARIO**:[ Aquí tienes un muro](https://padlet.com/CATEDU/APPinventor) para que puedas añadir aquello que puede ser útil para ampliar conocimientos del uso de APP Inventor en el aula
+
