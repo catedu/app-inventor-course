@@ -12,11 +12,14 @@ Buena pregunta... para enseñar el pensamiento computacional tenemos dos caminos
 - **La programación**, que sería como enseñar un nuevo idioma.
 - **La robótica** que sería como practicar este idioma con un nativo, luego antes hay que saber el idioma.
 
-En CATEDU hemos elaborado esta **hoja de ruta** de herramientas y edades, hay otras herramientas y otros criterios TOTALMENTE VALIDOS, este es el nuestro, lo que hemos elegido en los cursos de [Aularagon ](aularagon.catedu.es)y que enseñamos [aquí ](https://docs.google.com/drawings/d/1C-wPslYZaqZXwCpGNeedDuRY5LKm3Yz0v9N4sktA_kc/pub?w=960&amp;h=720)como orientación, pero no se debe de tomar al pie de la letra.
+Este curso entra pues en LA PROGRAMACIÓN.
+
+En CATEDU hemos elaborado esta **hoja de ruta para que puedas encajar este curso dentro de los diferentes cursos que ofertamos**  te motramos herramientas y edades.
+Hay otras herramientas y otros criterios TOTALMENTE VALIDOS, este es el nuestro, lo que hemos elegido en los cursos de [Aularagon ](moodle.catedu.es)y que enseñamos [aquí ](https://docs.google.com/drawings/d/1C-wPslYZaqZXwCpGNeedDuRY5LKm3Yz0v9N4sktA_kc/pub?w=960&amp;h=720)como orientación, pero no se debe de tomar al pie de la letra.
 
 <img src="https://docs.google.com/drawings/d/1C-wPslYZaqZXwCpGNeedDuRY5LKm3Yz0v9N4sktA_kc/pub?w=960&amp;h=720" />
 
-## 
+## Ahora a jugar ...
 
 
 
