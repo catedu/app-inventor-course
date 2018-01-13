@@ -29,7 +29,7 @@
 * [De que va el juego](de_que_va_el_juego.md)
 * [La parte de diseño](la_parte_de_diseo.md)
 * [Ponemos las condiciones mayor y menor](ponemos_las_condiciones_mayor_y_menor.md)
-* [Las condición de ganar](las_condicin_de_ganar.md)
+* [La condición de ganar](las_condicin_de_ganar.md)
 * [VOLUNTARIO: Colabora en saber más](voluntario_colabora_en_saber_ms.md)
 
 ## Aularagón
