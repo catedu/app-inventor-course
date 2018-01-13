@@ -10,4 +10,4 @@ Debido a que APP INVENTOR tiene muchas posibilidades, dependiendo de lo que uno 
 1. **Un crónómetro** Para conocer los eventos del tiempo
 1. **Un pequeño juego de adivinar** Manejo de las funciones de control
 
-![](/assets/appinventor.png)
+<iframe src="https://giphy.com/embed/BhsCHqLcCxeSs" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/r2d2-BhsCHqLcCxeSs">via GIPHY</a></p>
