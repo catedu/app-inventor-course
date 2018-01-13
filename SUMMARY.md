@@ -16,7 +16,7 @@
 
 ## 2. Cronómetro
 
-* [Cronometra](index1.md)
+* [Cronometro](index1.md)
 * [Qué vamos a hacer](qu_vamos_a_hacer.md)
 * [Parte diseño](parte_diseo.md)
 * [Sensor](sensor.md)
@@ -33,3 +33,4 @@
 * [VOLUNTARIO: Colabora en saber más](voluntario_colabora_en_saber_ms.md)
 
 ## Aularagón
+

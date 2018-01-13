@@ -1,7 +1,7 @@
 
 # Objetivo
 
-¿qué es lo que vamos a hacer? ... un sencillo programa para romper el hielo, y saber cómo manejar APP Inventor, el objetivo no es la programación sino entender el entorno.
+¿Qué es lo que vamos a hacer? ... un sencillo programa para romper el hielo, y saber cómo manejar APP Inventor, el objetivo no es la programación sino entender el entorno.
 
 - Entender bien interfaces diseño y bloque
 - Probar nuestra APP en tu móvil o tableta
