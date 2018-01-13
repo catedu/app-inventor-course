@@ -34,3 +34,5 @@
 
 ## Aularagón
 
+* [Créditos](aularagon/creditos.md)
+
